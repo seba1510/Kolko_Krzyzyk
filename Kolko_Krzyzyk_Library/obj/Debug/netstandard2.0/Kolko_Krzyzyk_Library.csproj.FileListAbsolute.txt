@@ -1,0 +1,8 @@
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\bin\Debug\netstandard2.0\Kolko_Krzyzyk_Library.deps.json
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\bin\Debug\netstandard2.0\Kolko_Krzyzyk_Library.dll
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\bin\Debug\netstandard2.0\Kolko_Krzyzyk_Library.pdb
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\obj\Debug\netstandard2.0\Kolko_Krzyzyk_Library.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\obj\Debug\netstandard2.0\Kolko_Krzyzyk_Library.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\obj\Debug\netstandard2.0\Kolko_Krzyzyk_Library.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\obj\Debug\netstandard2.0\Kolko_Krzyzyk_Library.dll
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk_Library\obj\Debug\netstandard2.0\Kolko_Krzyzyk_Library.pdb

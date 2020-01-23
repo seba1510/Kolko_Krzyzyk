@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\Kolko_Krzyzyk.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\App.g.cs
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\MainWindow.g.cs
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\OnePlayer.g.cs
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\TwoPlayers.g.cs
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\Kolko_Krzyzyk_MarkupCompile.cache
+C:\Users\Sebastian\Desktop\Projekt\Kolko_Krzyzyk\Kolko_Krzyzyk\obj\Release\Kolko_Krzyzyk_MarkupCompile.lref
